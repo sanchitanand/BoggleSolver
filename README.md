@@ -1,7 +1,11 @@
   Program: Boggle Game Solver
+
   Author: Sanchit Anand 
+
   Date: January 2018
+
   Description: 
+  
   Boggle Game Solver is a simple tool that is able to solve Boggle puzzles of arbitary sizes. 
   
   To properly use this program, first run createDictionary, giving a path to 
